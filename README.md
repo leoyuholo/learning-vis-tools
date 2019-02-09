@@ -8,7 +8,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 ## Directory/Schedule
 
 | Date | Topic | Materials | Link to Tools |
-| - | - | - |
+| - | - | - | - |
 | 12 Feb | Introduction to visualization tools and warm-up with MS Excel visualization | [Tutorial01](./tutorial01) ||
 | 19 Feb | Visualization with Tableau and data processing pipeline | [Tutorial02](./tutorial02) | [Download and install Tableau](https://public.tableau.com/en-us/s/) |
 | 26 Feb | Where to find visualizations and interesting datasets? |||
