@@ -11,7 +11,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 | - | - | - | - |
 | 12 Feb | Introduction to visualization tools and warm-up with MS Excel visualization | [Tutorial01](./tutorial01) ||
 | 19 Feb | Visualization with Tableau and data processing pipeline | [Tutorial02](./tutorial02) | [Download and install Tableau](https://public.tableau.com/en-us/s/) |
-| 26 Feb | Where to find visualizations and interesting datasets? | [Tutorial02](./tutorial03) ||
+| 26 Feb | Where to find visualizations and interesting datasets? | [Tutorial03](./tutorial03) ||
 | 5 Mar | Data scientist toolbox 1: Python, Jupyter Notebook and Pandas || [Google Colab](https://colab.research.google.com/) |
 | 12 Mar | Data scientist toolbox 2: Pandas and Python visualization |||
 | 19 Mar | Visualization with Javascript 1: Javascript basics and Observable || [Observable](https://beta.observablehq.com/) |
