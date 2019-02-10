@@ -41,7 +41,6 @@ The following is a list gathered throughout our daily discovery of new visualiza
 - [Lisa Charlotte Rost](https://lisacharlotterost.de/)
 - [Valentina D'Efilippo](http://www.valentinadefilippo.co.uk/)
 - [Nicholas Rougeux](https://c82.net/)
-
 - [Reddit/dataisugly](https://www.reddit.com/r/dataisugly/)
 - [Junk Charts](https://junkcharts.typepad.com/)
 
