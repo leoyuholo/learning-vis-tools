@@ -4,7 +4,7 @@ Introduction to visualization tools and warm-up with MS Excel visualization
 
 ## Materials:
 
-- [Google Slides](http://bit.ly/vis-t01)
+- [Google Slides](https://bit.ly/vis-t01)
 
 - [Lab1 materials](./lab1)
   - lab1.xlsx
