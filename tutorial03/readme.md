@@ -2,6 +2,10 @@
 
 The following is a list gathered throughout our daily discovery of new visualizations and new datasets.
 
+## Materials:
+
+- [Google Slides](https://bit.ly/vis-t03)
+
 ## Visualizations
 
 - [Visual Complexity](http://www.visualcomplexity.com/vc/)
