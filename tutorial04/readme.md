@@ -6,6 +6,8 @@ Python, Jupyter Notebook and Pandas
 
 - [Google Slides](https://bit.ly/vis-t04)
 
+- [Jupyter notebook on Google Colab](https://bit.ly/vis-t04-nb)
+
 - [Lab3 materials](./lab3)
   - pokemon.csv
 
