@@ -58,6 +58,7 @@ Marked with ⭑ means mentioned in slides.
 - ⭑[dataviz battle on Reddit/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/search?q=dataviz%20battle%20for%20the%20month%20of&restrict_sr=1&sort=new)
 - ⭑[1001 Datasets and Data repositories ( List of lists of lists )](https://dreamtolearn.com/ryan/1001_datasets)
 - [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page)
+- [VAST Challenge](http://vacommunity.org/tiki-index.php)
 - [nlp-datasets](https://github.com/niderhoff/nlp-datasets)
 - [Datahub](https://datahub.io/collections)
 - [Google Public Data](https://www.google.com/publicdata/directory)
