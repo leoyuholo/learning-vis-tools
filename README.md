@@ -12,8 +12,8 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 | 12 Feb | Introduction to visualization tools and warm-up with MS Excel visualization | [Tutorial01](./tutorial01) ||
 | 19 Feb | Visualization with Tableau and data processing | [Tutorial02](./tutorial02) | Download and install Tableau:<br>[Student](https://www.tableau.com/academic/students) (Full version, require student verification)<br>[Public](https://public.tableau.com/en-us/s/) (Free version with limitations) |
 | 26 Feb | Where to find visualizations and interesting datasets? | [Tutorial03](./tutorial03) ||
-| 5 Mar | Data scientist toolbox 1: Python, Jupyter Notebook and Pandas || [Google Colab](https://colab.research.google.com/) |
-| 12 Mar | Data scientist toolbox 2: Pandas and Python visualization |||
+| 5 Mar | Data scientist toolbox 1: Python, Jupyter Notebook and Pandas | [Tutorial04](./tutorial04) | [Google Colab](https://colab.research.google.com/) |
+| 12 Mar | Data scientist toolbox 2: Pandas and Python visualization | [Tutorial05](./tutorial05) ||
 | 19 Mar | Visualization with Javascript 1: Javascript basics and Observable || [Observable](https://beta.observablehq.com/) |
 |        | Visualization with Javascript 2: Vega-lite and data processing library |||
 |        | Visualization with D3.js |||
@@ -45,4 +45,3 @@ And a lot of amazing visualization examples and datasets!
 These materials are created by [Leo Yu Ho, Lo](https://leoyuholo.com) and [Ming Yao](http://www.myaooo.com).
 
 And thanks to [Prof. Huamin Qu](http://huamin.org) teaching this amazing course!
-
