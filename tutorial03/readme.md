@@ -72,3 +72,4 @@ Marked with ⭑ means mentioned in slides.
 - [Quora: Where can I find large datasets open to the public?](https://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
 - [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php)
 - [Cool Datasets](https://cooldatasets.com/)
+- [Public APIs](https://github.com/toddmotto/public-apis)
