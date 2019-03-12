@@ -1,4 +1,4 @@
-pokedex_number,name,japanese_name,base_total,attack,defense,sp_attack,sp_defense,speed,hp,capture_rate,is_legendary
+﻿pokedex_number,name,japanese_name,base_total,attack,defense,sp_attack,sp_defense,speed,hp,capture_rate,is_legendary
 1,Bulbasaur,Fushigidaneフシギダネ,318,49,49,65,65,45,45,45,0
 2,Ivysaur,Fushigisouフシギソウ,405,62,63,80,80,60,60,45,0
 3,Venusaur,Fushigibanaフシギバナ,625,100,123,122,120,80,80,45,0
