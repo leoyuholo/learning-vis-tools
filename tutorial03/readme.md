@@ -19,6 +19,7 @@ Marked with ⭑ means mentioned in slides.
 - ⭑[Reddit/dataisbeautiful](https://www.reddit.com/r/dataisbeautiful/top/?t=all)
 - [Xenographics](https://xeno.graphics/)
 - [Text Visualization Browser](http://textvis.lnu.se/)
+- [The TimeViz Browser](https://vcg.informatik.uni-rostock.de/~ct/timeviz/timeviz.html)
 - [MakeoverMonday](http://www.makeovermonday.co.uk/gallery/)
 - [SETOSA](http://setosa.io/#/)
 - [Explained Visually](http://setosa.io/ev/)
