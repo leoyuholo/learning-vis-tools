@@ -14,7 +14,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 | 26 Feb | Where to find visualizations and interesting datasets? | [Tutorial03](./tutorial03) ||
 | 5 Mar | Data scientist toolbox 1: Python, Jupyter Notebook and Pandas | [Tutorial04](./tutorial04) | [Google Colab](https://colab.research.google.com/) |
 | 12 Mar | Data scientist toolbox 2: Pandas and Python visualization | [Tutorial05](./tutorial05) ||
-| 19 Mar | Visualization with Javascript 1: Javascript basics and Observable || [Observable](https://beta.observablehq.com/) |
+| 19 Mar | Visualization with Javascript 1: Javascript basics and Observable | [Tutorial06](./tutorial06) | [Observable](https://beta.observablehq.com/) |
 |        | Visualization with Javascript 2: Vega-lite and data processing library |||
 |        | Visualization with D3.js |||
 |        | Visualization and interaction with D3.js |||
@@ -39,7 +39,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 - [Interactive Data Visualization for the Web: An Introduction to Designing with D3 (Scott Murray)](https://alignedleft.com/work/d3-book-2e)
   - [GitHub of materials and code examples](https://github.com/alignedleft/d3-book)
 
-And a lot of amazing visualization examples and datasets!
+And a lot of amazing [visualization examples and datasets](./tutorial03)!
 
 ## Credits
 These materials are created by [Leo Yu Ho, Lo](https://leoyuholo.com) and [Ming Yao](http://www.myaooo.com).
