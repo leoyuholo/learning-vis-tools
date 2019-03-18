@@ -15,7 +15,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 | 5 Mar | Data scientist toolbox 1: Python, Jupyter Notebook and Pandas | [Tutorial04](./tutorial04) | [Google Colab](https://colab.research.google.com/) |
 | 12 Mar | Data scientist toolbox 2: Pandas and Python visualization | [Tutorial05](./tutorial05) ||
 | 19 Mar | Visualization with Javascript 1: Javascript basics and Observable | [Tutorial06](./tutorial06) | [Observable](https://beta.observablehq.com/) |
-|        | Visualization with Javascript 2: Vega-lite and data processing library |||
+| 26 Mar | Visualization with Javascript 2: Vega-lite and data processing library | [Tutorial07](./tutorial07) ||
 |        | Visualization with D3.js |||
 |        | Visualization and interaction with D3.js |||
 
