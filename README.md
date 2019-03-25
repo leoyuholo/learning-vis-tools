@@ -15,9 +15,9 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 | 5 Mar | Data scientist toolbox 1: Python, Jupyter Notebook and Pandas | [Tutorial04](./tutorial04) | [Google Colab](https://colab.research.google.com/) |
 | 12 Mar | Data scientist toolbox 2: Pandas and Python visualization | [Tutorial05](./tutorial05) ||
 | 19 Mar | Visualization with Javascript 1: Javascript basics and Observable | [Tutorial06](./tutorial06) | [Observable](https://beta.observablehq.com/) |
-| 26 Mar | Visualization with Javascript 2: Vega-lite and data processing library | [Tutorial07](./tutorial07) ||
-|        | Visualization with D3.js |||
-|        | Visualization and interaction with D3.js |||
+| 26 Mar | Visualization with Javascript 2: Vega-Lite and data processing library | [Tutorial07](./tutorial07) ||
+| 2 Apr | Visualization with D3.js |||
+| 9 Apr | Visualization and interaction with D3.js |||
 
 ## References
 
@@ -34,6 +34,9 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 
 ### Altair
 - [Altair user guide](https://altair-viz.github.io/user_guide/data.html)
+
+### Vega-Lite
+- [Vega-Lite Examples](https://vega.github.io/vega-lite/examples/)
 
 ### D3.js
 - [Interactive Data Visualization for the Web: An Introduction to Designing with D3 (Scott Murray)](https://alignedleft.com/work/d3-book-2e)

@@ -14,6 +14,7 @@ Vega-Lite and Data Processing Libraries
 - [Interactive Data Visualization for the Web: An Introduction to Designing with D3 (Scott Murray)](https://alignedleft.com/work/d3-book-2e)
   - [GitHub of materials and code examples](https://github.com/alignedleft/d3-book)
 - [Observable](https://observablehq.com)
+- [Vega-Lite](https://vega.github.io/vega-lite)
 - [Lodash](https://lodash.com)
 - [Moment.js](https://momentjs.com)
 - [DevDocs](https://devdocs.io)
