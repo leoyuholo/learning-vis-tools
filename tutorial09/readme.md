@@ -1,6 +1,6 @@
 # Tutorial 9
 
-Visualization and Interaction with D3.js
+Visualization and interaction with D3.js
 
 ## Materials:
 
