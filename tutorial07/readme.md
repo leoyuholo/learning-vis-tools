@@ -1,4 +1,4 @@
-# Tutorial 6
+# Tutorial 7
 
 Vega-Lite and Data Processing Libraries
 
