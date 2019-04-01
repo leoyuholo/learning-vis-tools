@@ -9,14 +9,14 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 
 | Date | Topic | Materials | Link to Tools |
 | - | - | - | - |
-| 12 Feb | [Introduction to visualization tools and warm-up with MS Excel visualization](./tutorial01) | [Slides](https://vis-t01) ||
-| 19 Feb | [Visualization with Tableau and data processing](./tutorial02) | [Slides](https://vis-t02) | Download and install Tableau:<br>[Student](https://www.tableau.com/academic/students) (Full version, require student verification)<br>[Public](https://public.tableau.com/en-us/s/) (Free version with limitations) |
-| 26 Feb | [Where to find visualizations and interesting datasets?](./tutorial03) | [Slides](https://vis-t03) ||
-| 5 Mar | [Data scientist toolbox 1: Python, Jupyter Notebook and Pandas](./tutorial04) | [Jupyter Notebook](https://vis-t04-nb)<br>[Slides](https://vis-t04) | [Google Colab](https://colab.research.google.com/) |
-| 12 Mar | [Data scientist toolbox 2: Pandas and Python visualization](./tutorial05) | [Jupyter Notebook](https://vis-t05-nb)<br>[Slides](https://vis-t05) ||
-| 19 Mar | [Visualization with Javascript 1: Javascript basics and Observable](./tutorial06) | [Observable Notebook](https://vis-t06-ob)<br>[Slides](https://vis-t06) | [Observable](https://beta.observablehq.com/) |
-| 26 Mar | [Visualization with Javascript 2: Vega-Lite and data processing library](./tutorial07) | [Observable Notebook](https://vis-t07-ob)<br>[Slides](https://vis-t07) ||
-| 2 Apr | [Visualization with D3.js](./tutorial08) | [Observable Notebook](https://vis-t08-ob)<br>[Slides](https://vis-t08) ||
+| 12 Feb | [Introduction to visualization tools and warm-up with MS Excel visualization](./tutorial01) | [Slides](https://bit.ly/vis-t01) ||
+| 19 Feb | [Visualization with Tableau and data processing](./tutorial02) | [Slides](https://bit.ly/vis-t02) | Download and install Tableau:<br>[Student](https://www.tableau.com/academic/students) (Full version, require student verification)<br>[Public](https://public.tableau.com/en-us/s/) (Free version with limitations) |
+| 26 Feb | [Where to find visualizations and interesting datasets?](./tutorial03) | [Slides](https://bit.ly/vis-t03) ||
+| 5 Mar | [Data scientist toolbox 1: Python, Jupyter Notebook and Pandas](./tutorial04) | [Jupyter Notebook](https://bit.ly/vis-t04-nb)<br>[Slides](https://bit.ly/vis-t04) | [Google Colab](https://colab.research.google.com/) |
+| 12 Mar | [Data scientist toolbox 2: Pandas and Python visualization](./tutorial05) | [Jupyter Notebook](https://bit.ly/vis-t05-nb)<br>[Slides](https://bit.ly/vis-t05) ||
+| 19 Mar | [Visualization with Javascript 1: Javascript basics and Observable](./tutorial06) | [Observable Notebook](https://bit.ly/vis-t06-ob)<br>[Slides](https://bit.ly/vis-t06) | [Observable](https://beta.observablehq.com/) |
+| 26 Mar | [Visualization with Javascript 2: Vega-Lite and data processing library](./tutorial07) | [Observable Notebook](https://bit.ly/vis-t07-ob)<br>[Slides](https://bit.ly/vis-t07) ||
+| 2 Apr | [Visualization with D3.js](./tutorial08) | [Observable Notebook](https://bit.ly/vis-t08-ob)<br>[Slides](https://bit.ly/vis-t08) ||
 | 9 Apr | Visualization and interaction with D3.js |||
 
 ## References
