@@ -45,6 +45,6 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 And a lot of amazing [visualization examples and datasets](./tutorial03)!
 
 ## Credits
-These materials are created by [Leo Yu Ho, Lo](https://leoyuholo.com) and [Ming Yao](http://www.myaooo.com).
+These materials are created by [Leo Yu Ho Lo](https://leoyuholo.com) and [Ming Yao](http://www.myaooo.com).
 
 And thanks to [Prof. Huamin Qu](http://huamin.org) teaching this amazing course!

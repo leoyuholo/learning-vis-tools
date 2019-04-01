@@ -8,7 +8,7 @@ Visualization with D3.js
 
 - [Notebook on Observable](https://bit.ly/vis-t08-ob)
 
-- [Lab 6 materials](./lab7)
+- [Lab 7 materials](./lab7)
 
 ## Credits:
 - [Interactive Data Visualization for the Web: An Introduction to Designing with D3 (Scott Murray)](https://alignedleft.com/work/d3-book-2e)
