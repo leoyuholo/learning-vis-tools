@@ -17,7 +17,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 | 19 Mar | [Visualization with Javascript 1: Javascript basics and Observable](./tutorial06) | [Observable Notebook](https://bit.ly/vis-t06-ob)<br>[Slides](https://bit.ly/vis-t06) | [Observable](https://beta.observablehq.com/) |
 | 26 Mar | [Visualization with Javascript 2: Vega-Lite and data processing library](./tutorial07) | [Observable Notebook](https://bit.ly/vis-t07-ob)<br>[Slides](https://bit.ly/vis-t07) ||
 | 2 Apr | [Visualization with Javascript 3: Visualization with D3.js](./tutorial08) | [Observable Notebook](https://bit.ly/vis-t08-ob)<br>[Slides](https://bit.ly/vis-t08) ||
-| 9 Apr | [Visualization with Javascript 4: Visualization and interaction with D3.js](./tutorial09) |||
+| 9 Apr | [Visualization with Javascript 4: Visualization and interaction with D3.js](./tutorial09) | [Observable Notebook](https://bit.ly/vis-t09-ob)<br>[Slides](https://bit.ly/vis-t09) ||
 
 ## References
 
