@@ -51,6 +51,7 @@ Marked with ⭑ means mentioned in slides.
 - [Nicholas Rougeux](https://c82.net/)
 - [Reddit/dataisugly](https://www.reddit.com/r/dataisugly/)
 - ⭑[Junk Charts](https://junkcharts.typepad.com/)
+- [visualizing.org](https://www.visualizing.org/)
 
 ## Datasets
 
@@ -74,3 +75,4 @@ Marked with ⭑ means mentioned in slides.
 - [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php)
 - [Cool Datasets](https://cooldatasets.com/)
 - [Public APIs](https://github.com/toddmotto/public-apis)
+- [Google Dataset Search](https://toolbox.google.com/datasetsearch)
