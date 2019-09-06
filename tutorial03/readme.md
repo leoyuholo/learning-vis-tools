@@ -56,6 +56,7 @@ Marked with ⭑ means mentioned in slides.
 - [2018: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2018/us/2018-year-in-graphics.html)
 - [2017: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2017/12/21/us/2017-year-in-graphics.html)
 - [MakeoverMonday](https://www.makeovermonday.co.uk/gallery/)
+- [Tableau Iron Viz Competition](https://www.tableau.com/iron-viz/gallery)
 
 ## Datasets
 
