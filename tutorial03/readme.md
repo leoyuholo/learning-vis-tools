@@ -83,3 +83,4 @@ Marked with ⭑ means mentioned in slides.
 - [Google Dataset Search](https://toolbox.google.com/datasetsearch)
 - [FlowingData Data Sources](https://flowingdata.com/category/statistics/data-sources/)
 - [MakeoverMonday](https://www.makeovermonday.co.uk/data/)
+- [Reddit/datasets](https://www.reddit.com/r/datasets/)
