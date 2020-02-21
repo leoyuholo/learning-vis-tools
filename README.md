@@ -3,7 +3,7 @@ Welcome to the tutorial of COMP 4462 Data Visualization! You can find the materi
 
 While the lectures are focused on the principles of data visualization, the tutorials will focus on how to use the tools built by data visualization practitioners.
 
-Besides these materials, you can find the course materials on [Canvas](https://canvas.ust.hk/courses/23932).
+Besides these materials, you can find the course materials on [Canvas](https://canvas.ust.hk/courses/29837).
 
 ## Directory/Schedule
 
@@ -45,6 +45,6 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 And a lot of amazing [visualization examples and datasets](./tutorial03)!
 
 ## Credits
-These materials are created by [Leo Yu Ho Lo](https://leoyuholo.com) and [Ming Yao](http://www.myaooo.com).
+These materials are created by [Leo Yu Ho Lo](https://leoyuholo.com), [Yao Ming](http://www.myaooo.com) and [Li Wenchao](http://www.cse.ust.hk/~wlibs).
 
 And thanks to [Prof. Huamin Qu](http://huamin.org) teaching this amazing course!
