@@ -1,262 +1,1302 @@
-﻿university_name,country
-Harvard University,United States of America
-California Institute of Technology,United States of America
-Massachusetts Institute of Technology,United States of America
-Stanford University,United States of America
-Princeton University,United States of America
-University of Cambridge,United Kingdom
-University of Oxford,United Kingdom
-"University of California, Berkeley",United States of America
-Imperial College London,United Kingdom
-Yale University,United States of America
-"University of California, Los Angeles",United States of America
-University of Chicago,United States of America
-Johns Hopkins University,United States of America
-Cornell University,United States of America
-ETH Zurich – Swiss Federal Institute of Technology Zurich,Switzerland
-University of Michigan,United States of America
-University of Toronto,Canada
-Columbia University,United States of America
-University of Pennsylvania,United States of America
-Carnegie Mellon University,United States of America
-University of Hong Kong,Hong Kong
-University College London,United Kingdom
-University of Washington,United States of America
-Duke University,United States of America
-Northwestern University,United States of America
-University of Tokyo,Japan
-Georgia Institute of Technology,United States of America
-Pohang University of Science and Technology,South Korea
-"University of California, Santa Barbara",United States of America
-University of British Columbia,Canada
-University of North Carolina at Chapel Hill,United States of America
-"University of California, San Diego",United States of America
-University of Illinois at Urbana-Champaign,United States of America
-National University of Singapore,Singapore
-McGill University,Canada
+Institution,Country
+Ferhat Abbas Setif University 1,Algeria
+University Abou Bekr Belkaid - Tlemcen,Algeria
+University of Bejaia,Algeria
+Universidad de Palermo,Argentina
+National University de General San Martin,Argentina
+National University de Cuyo,Argentina
+National University of the South,Argentina
+National University de Cordoba,Argentina
+James Cook University,Australia
+University of Western Sydney,Australia
+University of Technology Sydney,Australia
+Murdoch University,Australia
 University of Melbourne,Australia
-Peking University,China
-Washington University in St Louis,United States of America
-École Polytechnique,France
-University of Edinburgh,United Kingdom
-Hong Kong University of Science and Technology,Hong Kong
-École Normale Supérieure,France
+University of South Australia,Australia
+RMIT University,Australia
 Australian National University,Australia
-Karolinska Institute,Sweden
-University of Göttingen,Germany
-University of Wisconsin,United States of America
-Rice University,United States of America
-École Polytechnique Fédérale de Lausanne,Switzerland
-"University of California, Irvine",United States of America
-University of Science and Technology of China,China
-Vanderbilt University,United States of America
-University of Minnesota,United States of America
-Tufts University,United States of America
-"University of California, Davis",United States of America
-Brown University,United States of America
-University of Massachusetts,United States of America
-Kyoto University,Japan
-Tsinghua University,China
-Boston University,United States of America
-New York University,United States of America
-Emory University,United States of America
-LMU Munich,Germany
-University of Notre Dame,United States of America
-University of Pittsburgh,United States of America
-Case Western Reserve University,United States of America
-Ohio State University,United States of America
-University of Colorado Boulder,United States of America
-University of Bristol,United Kingdom
-"University of California, Santa Cruz",United States of America
-Yeshiva University,United States of America
+Southern Cross University,Australia
+Central Queensland University,Australia
+Swinburne University of Technology,Australia
+Edith Cowan University,Australia
+University of Canberra,Australia
+University of Southern Queensland,Australia
 University of Sydney,Australia
-University of Virginia,United States of America
 University of Adelaide,Australia
-University of Southern California,United States of America
-William & Mary,United States of America
-Trinity College Dublin,Republic of Ireland
-King’s College London,United Kingdom
-Stony Brook University,United States of America
-Korea Advanced Institute of Science and Technology (KAIST),South Korea
-University of Sussex,United Kingdom
-The University of Queensland,Australia
-University of York,United Kingdom
-Heidelberg University,Germany
-University of Utah,United States of America
-Durham University,United Kingdom
-London School of Economics and Political Science,United Kingdom
-University of Manchester,United Kingdom
-"Royal Holloway, University of London",United Kingdom
-Lund University,Sweden
-University of Southampton,United Kingdom
-University of Zurich,Switzerland
-Wake Forest University,United States of America
-McMaster University,Canada
-University College Dublin,Republic of Ireland
-George Washington University,United States of America
-University of Arizona,United States of America
-University of Basel,Switzerland
-"University of Maryland, College Park",United States of America
-Dartmouth College,United States of America
-École Normale Supérieure de Lyon,France
-Technical University of Munich,Germany
-University of Helsinki,Finland
-University of St Andrews,United Kingdom
-Rensselaer Polytechnic Institute,United States of America
-"Rutgers, the State University of New Jersey",United States of America
-Purdue University,United States of America
-National Tsing Hua University,Taiwan
-University of Cape Town,South Africa
-Pennsylvania State University,United States of America
-Seoul National University,South Korea
-Hong Kong Baptist University,Hong Kong
-Bilkent University,Turkey
-Tokyo Institute of Technology,Japan
-Eindhoven University of Technology,Netherlands
-National Taiwan University,Taiwan
-University of Hawai’i at Mānoa,United States of America
-"University of California, Riverside",United States of America
-University of Geneva,Switzerland
-KU Leuven,Belgium
-Nanjing University,China
-Queen Mary University of London,United Kingdom
-Michigan State University,United States of America
-Technical University of Denmark,Denmark
-Ghent University,Belgium
-Lancaster University,United Kingdom
-Leiden University,Netherlands
-University of Alberta,Canada
-University of Glasgow,United Kingdom
-Stockholm University,Sweden
-Osaka University,Japan
-University of Victoria,Canada
-Tohoku University,Japan
-University of Freiburg,Germany
-University of Iowa,United States of America
-University of Bergen,Norway
-University of Lausanne,Switzerland
-University of Sheffield,United Kingdom
-University of Montreal,Canada
-VU University Amsterdam,Netherlands
-Pierre and Marie Curie University,France
-University of Dundee,United Kingdom
-University of Barcelona,Spain
-Utrecht University,Netherlands
-Wageningen University and Research Center,Netherlands
-University of Auckland,New Zealand
-University of Birmingham,United Kingdom
-Alexandria University,Egypt
-Uppsala University,Sweden
-Hong Kong Polytechnic University,Hong Kong
-University of Aberdeen,United Kingdom
-Delft University of Technology,Netherlands
-"Birkbeck, University of London",United Kingdom
-Newcastle University,United Kingdom
+Victoria University - Melbourne,Australia
+Bond University,Australia
+University of the Sunshine Coast,Australia
+Australian Catholic University,Australia
 University of New South Wales,Australia
-Pompeu Fabra University,Spain
-Indiana University,United States of America
-Iowa State University,United States of America
-Georgia Health Sciences University,United States of America
-Erasmus University Rotterdam,Netherlands
-University of Delaware,United States of America
-Arizona State University,United States of America
-Boston College,United States of America
-National Sun Yat-Sen University,Taiwan
-Georgetown University,United States of America
-University of Amsterdam,Netherlands
-University of Liverpool,United Kingdom
-Aarhus University,Denmark
-University of Leeds,United Kingdom
-University of Würzburg,Germany
-University of Groningen,Netherlands
-Sun Yat-sen University,China
-Goethe University Frankfurt,Germany
-Bielefeld University,Germany
-Nanyang Technological University,Singapore
-University of East Anglia,United Kingdom
-University of Nottingham,United Kingdom
-University of Copenhagen,Denmark
-Humboldt University of Berlin,Germany
+La Trobe University,Australia
+University of Queensland,Australia
+Flinders University,Australia
+University of Western Australia,Australia
+Macquarie University,Australia
+Griffith University,Australia
+Queensland University of Technology,Australia
+University of Newcastle - Australia,Australia
+Charles Darwin University,Australia
+University of Wollongong,Australia
+University of Tasmania,Australia
 Monash University,Australia
-University of Bonn,Germany
-National Chiao Tung University,Taiwan
+Curtin University,Australia
+Deakin University,Australia
+Medical University of Vienna,Austria
+University of Graz,Austria
+University of Linz,Austria
+University of Vienna,Austria
+Medical University of Graz,Austria
+University of Leoben,Austria
+Medical University of Innsbruck,Austria
+Vienna University of Technology,Austria
+University of Innsbruck,Austria
+Graz University of Technology,Austria
+University of Klagenfurt,Austria
+University of Dhaka,Bangladesh
+Belarusian State University,Belarus
+Hasselt University,Belgium
+Universite Libre de Bruxelles,Belgium
+Catholic University of Leuven,Belgium
+University of Gent,Belgium
+Catholic University of Louvain,Belgium
+University of Liege,Belgium
+University of Antwerp,Belgium
+Vrije Universiteit Brussel,Belgium
+University of Sao Paulo,Brazil
+Federal University of Sao Paulo,Brazil
+State University of Campinas,Brazil
+Pontifical Catholic University of Rio de Janeiro,Brazil
+Rio de Janeiro State University,Brazil
+Pontifical Catholic University of Rio Grande do Sul,Brazil
+Sao Paulo State University,Brazil
+Federal University of Rio Grande do Sul,Brazil
+Federal University of Parana,Brazil
+Federal University of Vicosa,Brazil
+Federal University of Santa Catarina,Brazil
+Pontifical Catholic University of Parana,Brazil
+Federal University of Minas Gerais,Brazil
+Federal University of Lavras,Brazil
+Federal University of Bahia,Brazil
+University of Brasilia,Brazil
+Federal University of Rio de Janeiro,Brazil
+Federal University of Sao Carlos,Brazil
+Federal University of Pelotas,Brazil
+State University de Londrina,Brazil
+State University de Maringa,Brazil
+Federal University Fluminense,Brazil
+Federal University of Goias,Brazil
+Federal University of Ouro Preto,Brazil
+Federal University of Pernambuco,Brazil
+Federal University of Santa Maria,Brazil
+Federal University of Ceara,Brazil
+Federal University of Rio Grande do Norte,Brazil
+Federal University of Itajuba,Brazil
+State University de Ponta Grossa,Brazil
+Federal University of ABC,Brazil
+University of Brunei Darussalam,Brunei
+Sofia University,Bulgaria
+University of Quebec at Montreal,Canada
+University of Alberta,Canada
+University of Saskatchewan,Canada
+University of Northern British Columbia,Canada
+University of Victoria,Canada
+Memorial University of Newfoundland,Canada
+University of Regina,Canada
+University of Sherbrooke,Canada
+Concordia University,Canada
+University of Quebec,Canada
+University of Montreal,Canada
+Dalhousie University,Canada
+Ryerson University,Canada
+Lakehead University,Canada
+McMaster University,Canada
+Carleton University,Canada
+McGill University,Canada
+University of Toronto,Canada
+University of Guelph,Canada
+York University,Canada
+Western University,Canada
+University of Manitoba,Canada
+University of British Columbia,Canada
+University of Waterloo,Canada
+University of Ottawa,Canada
+Queen's University,Canada
+University of Windsor,Canada
+Laval University,Canada
+Simon Fraser University,Canada
+University of Calgary,Canada
+University of Concepcion,Chile
+University of Chile,Chile
+University of Desarrollo,Chile
+University of Valparaiso,Chile
+National University Andres Bello,Chile
+Pontifical Catholic University of Chile,Chile
+Federico Santa Maria Technical University,Chile
+Universidad Autonoma de Chile,Chile
+Catholic University of the North,Chile
+University Diego Portales,Chile
+University of Santiago de Chile,Chile
+University of La Frontera,Chile
+University of Talca,Chile
+University Austral de Chile,Chile
+Pontifical Catholic University of Valparaiso,Chile
+Shantou University,China
+Yangzhou University,China
+China Pharmaceutical University,China
+Shenzhen University,China
+South China University of Technology,China
+Nanjing University of Information Science and Technology,China
+Shanghai University,China
+Nankai University,China
+Ocean University of China,China
+Shanghai Jiao Tong University,China
+Southern University of Science and Technology,China
+Northwest Agriculture and Forestry University,China
+Sichuan University,China
+University of Electronic Science and Technology of China,China
+Southern Medical University,China
+University of Science and Technology Beijing,China
+Shanghai University of Finance and Economics,China
+Shanghai Maritime University,China
+Guangdong University of Technology,China
+Nanjing Agricultural University,China
+Southeast University,China
+Jiangsu Normal University,China
+Nanjing Medical University,China
+Beijing Jiaotong University,China
+Nanjing Normal University,China
+University of International Business and Economics,China
+Northeast Normal University,China
+Northeastern University in China,China
+China University of Petroleum (Beijing),China
+Xidian University,China
+Northwestern Polytechnical University,China
+Beijing Normal University,China
+Fudan University,China
+Jilin University,China
+Huaqiao University,China
+Huazhong University of Science and Technology,China
+Nanjing University of Technology,China
+East China University of Science and Technology,China
+Xiamen University,China
+Shandong University,China
+Central China Normal University (Huazhong Normal University),China
+Shaanxi Normal University,China
+Jinan University - Guangdong,China
+Xiangtan University,China
+Soochow University,China
+Xi'an Jiaotong University,China
+Tongji University,China
+Tianjin University,China
+China Agricultural University,China
+East China Normal University,China
+Southwest Jiaotong University,China
+Northwest University,China
+Jiangsu University,China
+Beihang University,China
+Hunan University,China
+Dalian University of Technology,China
+Chongqing University,China
+Harbin Institute of Technology,China
+Wuhan University,China
+Capital University of Medical Sciences,China
+China University of Mining Technology - Xuzhou,China
+Beijing Institute of Technology,China
+Wuhan University of Technology,China
+University of Macau,China
+Central South University,China
+China University of Geosciences - Beijing,China
+Huazhong Agricultural University,China
+Fuzhou University,China
+Renmin University of China,China
+China University of Geosciences Wuhan,China
+Southwestern University of Finance and Economics,China
+Peking University,China
+Tsinghua University,China
+Zhejiang University,China
+Nanjing University,China
+Sun Yat-Sen University,China
+University of Science and Technology of China,China
+University Industrial de Santander,Colombia
+University of Los Andes,Colombia
+University of Rosario,Colombia
+National University of Colombia,Colombia
+Pontificia Universidad Javeriana,Colombia
+University of Antioquia,Colombia
+University of Costa Rica,Costa Rica
+University of Zagreb,Croatia
+University of Split,Croatia
+University of Cyprus,Cyprus
+Cyprus University of Technology,Cyprus
+Eastern Mediterranean University,Cyprus
+Masaryk University,Czech Republic
+Czech Technical University of Prague,Czech Republic
+University of Ostrava,Czech Republic
+Palacky University,Czech Republic
+University of West Bohemia,Czech Republic
+Charles University Prague,Czech Republic
+Brno University of Technology,Czech Republic
+University of Pardubice,Czech Republic
+Czech University of Life Sciences Prague,Czech Republic
+University of South Bohemia,Czech Republic
+Technical University of Liberec,Czech Republic
+Tomas Bata University in Zlin,Czech Republic
+University of Chemistry and Technology - Prague,Czech Republic
+Technical University of Ostrava,Czech Republic
+Copenhagen Business School,Denmark
+Aarhus University,Denmark
+Roskilde University,Denmark
+Aalborg University,Denmark
+University of Copenhagen,Denmark
+University of Southern Denmark,Denmark
+Technical University of Denmark,Denmark
+Cairo University,Egypt
+Ain Shams University,Egypt
+Mansoura University,Egypt
+Beni-Suef University,Egypt
+Alexandria University,Egypt
+Aswan University,Egypt
+Suez Canal University,Egypt
+Fayoum University,Egypt
+American University in Cairo,Egypt
+Kafrelsheikh University,Egypt
+Benha University,Egypt
+Tanta University,Egypt
+Sohag University,Egypt
+Assiut University,Egypt
+South Valley University,Egypt
+University of Tartu,Estonia
+Tallinn University,Estonia
+Tallinn University of Technology,Estonia
+University of Helsinki,Finland
+Lappeenranta University of Technology,Finland
+Aalto University,Finland
+University of Eastern Finland,Finland
+University of Turku,Finland
+University of Tampere,Finland
+University of Jyvaskyla,Finland
+Tampere University of Technology,Finland
+Abo Akademi University,Finland
+University of Oulu,Finland
+Ecole des Mines de Saint-Etienne,France
+Institut National des Sciences Appliquees de Lyon,France
+University of Strasbourg,France
+Mines ParisTech,France
+University of Versailles Saint-Quentin-en-Yvelines,France
+Grenoble Alpes University,France
+University Joseph Fourier - Grenoble I,France
+University of Droit et de la Sante - Lille II,France
+University Paris Sud (Paris XI),France
+University Blaise Pascal - Clermont-Ferrand II,France
+University of Caen Normandy,France
+CentraleSupelec,France
+University of Rennes I,France
+University of Burgundy,France
+University Pantheon-Sorbonne (Paris I),France
+Sorbonne University,France
+IMT Atlantique,France
+University Paris Nord (Paris XIII),France
+University Clermont Auvergne,France
+University Rene Descartes (Paris V),France
+PSL Research University Paris,France
+Ecole Centrale de Nantes,France
+University of Montpellier,France
+University of Bordeaux,France
+Aix-Marseille University,France
+University Denis Diderot (Paris VII),France
+Toulouse 1 University Capitole,France
+University of Nantes,France
+University of Cote d'Azur,France
+Univ Paris Ouest Nanterre La Defense,France
+Sciences Po - Paris,France
+University of Burgundy Franche-Comte,France
+Ecole Normale Superieure de Paris,France
+Ecole Normale Superieure de Lyon,France
+Ecole Normale Superieure de Cachan,France
+Telecom Paris,France
+American University of Paris,France
+University of Lorraine,France
+University of Nice-Sophia Antipolis,France
+University of Technology of Compiegne,France
+University Paris-Dauphine (Paris IX),France
+Ecole Centrale de Lyon,France
+University of Montpellier II,France
+University Francois Rabelais de Tours,France
+University of Lille,France
+University Jean Moulin - Lyon III,France
+University Pierre et Marie Curie (Paris VI),France
+University Paris-Sorbonne (Paris IV),France
+Ecole des Ponts ParisTech,France
+Federal University of Toulouse Midi-Pyrenees,France
+University Claude Bernard - Lyon I,France
+University of Franche-Comte,France
+Ecole Polytechnique,France
+University Lille I,France
+University of Cergy-Pontoise,France
+Ivane Javakhishvili Tbilisi State University,Georgia
+University of Bayreuth,Germany
+University of Marburg,Germany
+University of Potsdam,Germany
+University of Hannover,Germany
+University of Hohenheim,Germany
+University of Stuttgart,Germany
+University of Wurzburg,Germany
+University of Giessen,Germany
+University of Greifswald,Germany
+University of Cologne,Germany
+University of Passau,Germany
+University of Gottingen,Germany
+University of Mainz,Germany
+Jacobs University,Germany
+Hamburg University of Technology,Germany
+Charite - University Medicine Berlin,Germany
+University of Duisburg-Essen,Germany
+Technical University of Berlin,Germany
+University of Erlangen-Nurnberg,Germany
+University of Mannheim,Germany
+University of Bremen,Germany
+University of Magdeburg,Germany
+Kaiserslautern University of Technology,Germany
+Technical University of Dortmund,Germany
+University of Frankfurt am Main,Germany
+Technical University of Darmstadt,Germany
+University of Bielefeld,Germany
+Technical University of Braunschweig,Germany
+University of Kiel,Germany
+University of Bochum,Germany
+University of Freiburg,Germany
+Technical University of Dresden,Germany
+University of Siegen,Germany
+University of Wuppertal,Germany
+Technical University of Munchen,Germany
 RWTH Aachen University,Germany
-Middle East Technical University,Turkey
-University of Exeter,United Kingdom
-University of Twente,Netherlands
 University of Konstanz,Germany
 Karlsruhe Institute of Technology,Germany
-University of Innsbruck,Austria
-University of Tübingen,Germany
-Drexel University,United States of America
-University of Cincinnati,United States of America
-Yonsei University,South Korea
-Dalhousie University,Canada
-KTH Royal Institute of Technology,Sweden
-University of Vienna,Austria
-Kent State University,United States of America
-University of Illinois at Chicago,United States of America
-Zhejiang University,China
-Simon Fraser University,Canada
-Swedish University of Agricultural Sciences,Sweden
-University of Wisconsin-Madison,United States of America
-University of Texas at Austin,United States of America
-University of Rochester,United States of America
-University of Bern,Switzerland
-Hebrew University of Jerusalem,Israel
-University of Florida,United States of America
-Brandeis University,United States of America
-Chinese University of Hong Kong,Hong Kong
+University of Heidelberg,Germany
+University of Paderborn,Germany
+University of Munster,Germany
+Ilmenau University of Technology,Germany
+University of Ulm,Germany
+University of Hamburg,Germany
+University of Tubingen,Germany
 Free University of Berlin,Germany
-University of Warwick,United Kingdom
-Radboud University Nijmegen,Netherlands
-Medical University of South Carolina,United States of America
-Texas A&M University,United States of America
-University of Reading,United Kingdom
-Tel Aviv University,Israel
-Paris Diderot University – Paris 7,France
-Université Catholique de Louvain,Belgium
-University of Miami,United States of America
-Queen’s University,Canada
-University of São Paulo,Brazil
-University of Oslo,Norway
-University of Ottawa,Canada
-University of Western Australia,Australia
+Humboldt University of Berlin,Germany
+University of Bonn,Germany
+University of Munchen,Germany
+Chemnitz University of Technology,Germany
+University of Ghana,Ghana
+University of Ioannina,Greece
+University of Thessaly,Greece
+Aristotle University of Thessaloniki,Greece
+Athens University of Economics and Business,Greece
+Aegean University,Greece
+University of Athens,Greece
+National Technical University of Athens,Greece
+University of Patras,Greece
+University of Crete,Greece
+Hong Kong Baptist University,Hong Kong
+Chinese University of Hong Kong,Hong Kong
+Hong Kong University of Science and Technology,Hong Kong
+Hong Kong Polytechnic University,Hong Kong
+University of Hong Kong,Hong Kong
 City University of Hong Kong,Hong Kong
-Maastricht University,Netherlands
-University of Leicester,United Kingdom
-Paris-Sud University,France
-University of Texas at Dallas,United States of America
-Joseph Fourier University,France
-Colorado School of Mines,United States of America
-University of Antwerp,Belgium
-Technion Israel Institute of Technology,Israel
-University at Buffalo,United States of America
-Université Libre de Bruxelles,Belgium
-Northeastern University,United States of America
-Mines ParisTech,France
-Florida Institute of Technology,United States of America
-Boğaziçi University,Turkey
-Scuola Normale Superiore di Pisa,Italy
-TU Dresden,Germany
-Sungkyunkwan University (SKKU),South Korea
-Istanbul Technical University,Turkey
-Syracuse University,United States of America
-Sabancı University,Turkey
-Fudan University,China
-Lomonosov Moscow State University,Russian Federation
-"St George’s, University of London",United Kingdom
-University of Mannheim,Germany
-University of Erlangen-Nuremberg,Germany
-University of Münster,Germany
-Autonomous University of Barcelona,Spain
-University of Cologne,Germany
-University of Waterloo,Canada
-University of Gothenburg,Sweden
-Scuola Superiore Sant’Anna,Italy
-Cardiff University,United Kingdom
-Ulm University,Germany
-University of Luxembourg,Luxembourg
-Charité - Universitätsmedizin Berlin,Germany
+Central European University,Hungary
+University of Szeged,Hungary
+University of Pecs,Hungary
+University of Debrecen,Hungary
+Budapest University of Technology and Economics,Hungary
+Eotvos Lorand University,Hungary
+Corvinus University of Budapest,Hungary
+Semmelweis University,Hungary
+Reykjavik University,Iceland
+University of Iceland,Iceland
+Birla Institute of Technology and Science,India
+Indian Institute of Technology - Patna,India
+Indian Institute of Technology - Roorkee,India
+Indian School of Mines,India
+Banaras Hindu University,India
+Savitribai Phule Pune University,India
+Amrita Vishwa Vidyapeetham (Deemed University),India
+University of Delhi,India
+Indian Institute of Science Education and Research Kolkata,India
+National Institute of Technology Tiruchirappalli,India
+Panjab University,India
+Indian Institute of Technology - Ropar,India
+Indian Institute of Science,India
+Jawaharlal Nehru University,India
+Amity University,India
+Indian Institute of Technology - Delhi,India
+Indian Institute of Technology - Kanpur,India
+Indian Institute of Technology - Madras,India
+Andhra University,India
+Aligarh Muslim University,India
+Indian Institute of Technology Gandhinagar,India
+University of Calcutta,India
+Institute of Chemical Technology,India
+Sathyabama University,India
+JSS Academy of Higher Education and Research,India
+Osmania University,India
+National Institute of Technology Rourkela,India
+Vellore Institute of Technology,India
+SRM Institute Of Science and Technology ( Deemed University),India
+SASTRA Deemed University,India
+Indian Institute of Technology - Dhanbad,India
+Indian Institute of Technology - Hyderabad,India
+Indian Institute of Technology - Bhubaneswar,India
+Indian Institute of Science Education and Research Pune,India
+Indian Institute of Technology Indore,India
+Indian Institute of Technology - Guwahati,India
+Jadavpur University,India
+Manipal University,India
+Maharaja Sayajirao University of Baroda,India
+Cochin University of Science and Technology,India
+Tata Institute of Fundamental Research,India
+University of Kerala,India
+Thapar University,India
+Acharya Nagarjuna University,India
+Sri Venkateswara University,India
+Indian Institute of Technology - Bombay,India
+Pondicherry University,India
+Indian Institute of Technology - Kharagpur,India
+Tezpur University,India
+Jamia Millia Islamia University,India
+Annamalai University,India
+Institute of Technology Bandung,Indonesia
+Gadjah Mada University,Indonesia
+University of Indonesia,Indonesia
+Isfahan University of Medical Sciences,Iran
+Azarbaijan Shahid Madani University,Iran
+Imam Khomeini International University,Iran
+Kurdistan University,Iran
+K.N.Toosi University of Technology,Iran
+Shahid Beheshti University,Iran
+Mashhad University of Medical Sciences,Iran
+Mazandaran University of Iran,Iran
+Zanjan University,Iran
+Tehran University of Medical Sciences,Iran
+Kashan University,Iran
+Isfahan University of Technology,Iran
+University of Tehran,Iran
+Shahid Beheshti University of Medical Sciences,Iran
+Shiraz University of Technology,Iran
+Iran University of Medical Sciences,Iran
+Yasouj University,Iran
+Tabriz University of Medical Sciences,Iran
+Ferdowsi University of Mashhad,Iran
+Islamic Azad University - Karaj,Iran
+Yazd University,Iran
+Isfahan University,Iran
+Guilan University,Iran
+Amirkabir University of Technology,Iran
+Shiraz University,Iran
+Sharif University of Technology,Iran
+Iran University of Science and Technology Tehran,Iran
+Babol Noshirvani University of Technology,Iran
+University of Tabriz,Iran
+University of Baghdad,Iraq
+Royal College of Surgeons,Ireland
+National University of Ireland - Maynooth,Ireland
+National University of Ireland - Galway,Ireland
+Dublin Institute of Technology,Ireland
+University College Dublin,Ireland
+University College Cork,Ireland
+University of Limerick,Ireland
+Royal College Surgeons in Ireland,Ireland
+Trinity College Dublin,Ireland
+Dublin City University,Ireland
+University of Haifa,Israel
+Ben-Gurion University of the Negev,Israel
+Tel Aviv University,Israel
+Bar-Ilan University,Israel
+Hebrew University of Jerusalem,Israel
+IDC Herzliya,Israel
+Technion - Israel Institute of Technology,Israel
+University of Catania,Italy
+University of Calabria,Italy
+University of Florence,Italy
+Catholic University of the Sacred Heart,Italy
+University of Brescia,Italy
+University of Cagliari,Italy
+University of Genoa,Italy
+University of Palermo,Italy
+University of Parma,Italy
+University of Rome - Tor Vergata,Italy
+University of Sassari,Italy
+University of Siena,Italy
+University of Salerno,Italy
+University of Turin,Italy
+University of Pavia,Italy
+University of Trieste,Italy
+University of Insubria,Italy
+University of Aquila,Italy
+University of Pisa,Italy
+University of Bergamo,Italy
 University of Trento,Italy
-Queen’s University Belfast,United Kingdom
+Marche Polytechnic University,Italy
+Ca Foscari University of Venice,Italy
+University of Modena,Italy
+University of Ferrara,Italy
+University of Urbino Carlo Bo,Italy
+University of Milan - Bicocca,Italy
+University of Padua,Italy
+University of Milan,Italy
+Free University of Bozen-Bolzano,Italy
+University of Perugia,Italy
+University of Salento,Italy
+University of Naples Federico II,Italy
+University of Bari,Italy
+Polytechnic University of Turin,Italy
+Sant'Anna School of Advanced Studies,Italy
+Scuola Normale Superiore di Pisa,Italy
+Vita-Salute San Raffaele University,Italy
+Roma Tre University,Italy
+University of Verona,Italy
+Polytechnic University of Bari,Italy
+Polytechnic University of Milan,Italy
+University of Udine,Italy
+University of Bologna,Italy
+University of Rome - La Sapienza,Italy
+University of Rome III,Italy
+University of Eastern Piedmont,Italy
+University of the West Indies - Mona,Jamaica
+Sophia University,Japan
+Jikei University School of Medicine,Japan
+Osaka City University,Japan
+Kochi University,Japan
+Nagoya City University,Japan
+Hiroshima University,Japan
+Kyoto University,Japan
+Nippon Medical School,Japan
+Tokushima University,Japan
+Teikyo Heisei University,Japan
+Yamagata University,Japan
+Rikkyo University (St. Paul's University),Japan
+Osaka University,Japan
+Keio University,Japan
+Nagoya Institute of Technology,Japan
+Yamanashi University,Japan
+Tokai University,Japan
+Hyogo College of Medicine,Japan
+Saitama University,Japan
+Osaka Prefecture University,Japan
+Okayama University,Japan
+Niigata University,Japan
+Nagasaki University,Japan
+Kyushu Institute of Technology,Japan
+Kumamoto University,Japan
+Kindai University,Japan
+Juntendo University,Japan
+Gifu University,Japan
+Ehime University,Japan
+Chiba University,Japan
+St. Marianna University School of Medicine,Japan
+Aichi Medical University,Japan
+Muroran Institute of Technology,Japan
+Nagoya University,Japan
+Kurume University,Japan
+Toyota Technological Institute,Japan
+Showa University,Japan
+Kanazawa University,Japan
+Kyushu University,Japan
+Tsukuba University,Japan
+University of Occupational and Environmental Health - Japan,Japan
+Hokkaido University,Japan
+Tokyo Medical and Dental University,Japan
+Toho University,Japan
+Tokyo Institute of Technology,Japan
+Sapporo Medical University,Japan
+Kyoto Prefectural University of Medicine,Japan
+Tokyo Metropolitan University,Japan
+Shinshu University,Japan
+Tokyo University of Agriculture and Technology,Japan
+Tokushima Bunri University,Japan
+Saitama Medical University,Japan
+Chiba Institute of Technology,Japan
+Chuo University,Japan
+Doshisha University,Japan
+Yamaguchi University,Japan
+Gunma University,Japan
+Kagawa University,Japan
+Hosei University,Japan
+Tokyo University of Science,Japan
+The University of Tokyo,Japan
+Fujita Health University,Japan
+Iwate University,Japan
+Utsunomiya University,Japan
+Toyama University,Japan
+Tokyo Denki University,Japan
+Kansai University,Japan
+Kwansei Gakuin University,Japan
+Meiji University,Japan
+Kobe University,Japan
+Nagaoka University of Technology,Japan
+Shizuoka University,Japan
+Shimane University,Japan
+Oita University,Japan
+Shibaura Institute of Technology,Japan
+University of Aizu,Japan
+Tohoku University,Japan
+Ritsumeikan University,Japan
+Hamamatsu University School of Medicine,Japan
+Waseda University,Japan
+University of Tokyo,Japan
+Yokohama National University,Japan
+Yokohama City University,Japan
+Tokyo City University (Musashi Institute of Technology),Japan
+University of Electro-Communications,Japan
+Shiga University of Medical Science,Japan
+Saga University,Japan
+Nara Medical University,Japan
+Miyazaki University,Japan
+Tokyo University of Marine Science and Technology,Japan
+Kyoto Institute of Technology,Japan
+Kitasato University,Japan
+Mie University,Japan
+Toyohashi University of Technology,Japan
+Kagoshima University,Japan
+Kansai Medical University,Japan
+Tottori University,Japan
+Hashemite University,Jordan
+Jordan University,Jordan
+Jordan University of Science and Technology,Jordan
+Al-Balqa Applied University,Jordan
+Al-Farabi Kazakh National University,Kazakhstan
+University of Nairobi,Kenya
+Kuwait University,Kuwait
+Riga Technical University,Latvia
+University of Latvia,Latvia
+Saint Joseph University of Beirut,Lebanon
+American University of Beirut,Lebanon
+Lebanese American University,Lebanon
+Kaunas University of Technology,Lithuania
+Vilnius University,Lithuania
+University of Luxembourg,Luxembourg
+University of Macau,Macau
+Macau University of Science and Technology,Macau
+University of Putra Malaysia,Malaysia
+University of Malaysia Perlis,Malaysia
+University of Tenaga Nasional,Malaysia
+National University of Malaysia,Malaysia
+University of Technology - Malaysia,Malaysia
+University of Utara Malaysia,Malaysia
+University of Tunku Abdul Rahman,Malaysia
+University of Science - Malaysia,Malaysia
+University of Malaya,Malaysia
+University of Technology - Petronas,Malaysia
+University of Technology - Mara,Malaysia
+University of Malta,Malta
+University of Guadalajara,Mexico
+Autonomous University of Nuevo Leon,Mexico
+Metropolitan Autonomous University,Mexico
+Monterrey Institute of Technology and Higher Education,Mexico
+Autonomous University of Mexico State,Mexico
+Meritorious Autonomous University of Puebla,Mexico
+Autonomous University of Yucatan,Mexico
+Autonomous University of Queretaro,Mexico
+National Autonomous University of Mexico,Mexico
+Mohammed V University,Morocco
+Sidi Mohamed Ben Abdellah University,Morocco
+Cadi Ayyad University,Morocco
+Tribhuvan University Kathmandu,Nepal
+Erasmus University Rotterdam,Netherlands
+University of Groningen,Netherlands
+University of Twente,Netherlands
+University of Amsterdam,Netherlands
+VU University Amsterdam,Netherlands
+Eindhoven University of Technology,Netherlands
+University of Maastricht,Netherlands
+Delft University of Technology,Netherlands
+Tilburg University,Netherlands
+Radboud University of Nijmegen,Netherlands
+Wageningen University & Research Center,Netherlands
+Utrecht University,Netherlands
+University of Leiden,Netherlands
+University of Otago,New Zealand
+Auckland University of Technology,New Zealand
+University of Canterbury,New Zealand
+University of Auckland,New Zealand
+University of Waikato,New Zealand
+Victoria University of Wellington,New Zealand
+Lincoln University,New Zealand
+Massey University,New Zealand
+University of Ibadan,Nigeria
+University of Lagos,Nigeria
+Covenant University,Nigeria
+Uit the Arctic University of Norway,Norway
+University of Bergen,Norway
+University of Oslo,Norway
+Norwegian University of Science and Technology,Norway
+University of Tromso,Norway
+Norwegian University of Life Sciences,Norway
+Sultan Qaboos University,Oman
+COMSATS Institute Of Information Technology,Pakistan
+International Islamic University Islamabad,Pakistan
+University of the Punjab,Pakistan
+Lahore University of Management Sciences,Pakistan
+COMSATS University Islamabad,Pakistan
+National University of Sciences and Technology - Islamabad,Pakistan
+University of Lahore,Pakistan
+University of Karachi,Pakistan
+University of Agriculture Faisalabad,Pakistan
+Bahauddin Zakariya University,Pakistan
+Quaid-i-Azam University,Pakistan
+Pontifical Catholic University of Peru,Peru
+University Peruana Cayetano Heredia,Peru
+De La Salle University,Philippines
+University of the Philippines Manila,Philippines
+University of Lodz,Poland
+AGH University of Science and Technology,Poland
+Warsaw University of Technology,Poland
+Adam Mickiewicz University in Poznan,Poland
+Nicolaus Copernicus University,Poland
+Gdansk University of Technology,Poland
+University of Wroclaw,Poland
+University of Silesia,Poland
+University of Warsaw,Poland
+Jagiellonian University,Poland
+University of Algarve,Portugal
+University of Lisbon,Portugal
+Instituto Superior Tecnico Lisboa,Portugal
+University of Minho,Portugal
+University of Coimbra,Portugal
+ISCTE-University Institute of Lisbon,Portugal
+Polytechnic Institute of Porto,Portugal
+Catholic University of Portugal,Portugal
+University of Tras-os-Montes e Alto Douro,Portugal
+University of Porto,Portugal
+University of Aveiro,Portugal
+University of Evora,Portugal
+New University of Lisbon,Portugal
+University of Beira Interior,Portugal
+University of Puerto Rico,Puerto Rico
+University of Qatar,Qatar
+Dublin Institute of Technology,Republic of Ireland
+Iuliu Hatieganu University of Medicine and Pharmacy,Romania
+Babes-Bolyai University,Romania
+Grigore T. Popa University of Medicine and Pharmacy,Romania
+Alexandru Ioan Cuza University,Romania
+University of Bucharest,Romania
+Bucharest University of Economic Studies,Romania
+West University of Timisoara,Romania
+Bauman Moscow State Technical University,Russia
+St. Petersburg State Mining Institute (Technical University),Russia
+Kazan Federal University,Russia
+Novosibirsk State University,Russia
+I.M. Sechenov First Moscow State Medical University,Russia
+Higher School of Economics,Russia
+National Research Nuclear University,Russia
+St Petersburg State Politecnical University,Russia
+Siberian Federal University,Russia
+National Research University of Electronic Technology,Russia
+National Research Saratov State University,Russia
+Lobachevsky University,Russia
+National University of Science and Technology MISiS,Russia
+Southern Federal University,Russia
+Tomsk Polytechnic University,Russia
+Voronezh State University,Russia
+Novosibirsk State Technical University,Russia
+Ural Federal University,Russia
+Saratov State University,Russia
+Tomsk State University,Russia
+Belgorod State National Research University,Russia
+Samara University,Russia
+Moscow State University,Russia
+Moscow Institute of Physics and Technology,Russia
+Samara State Aerospace University,Russia
+Peoples' Friendship University of Russia,Russia
+ITMO University,Russia
+St. Petersburg State University,Russia
+Imam Abdulrahman Bin Faisal University,Saudi Arabia
+King Saud University,Saudi Arabia
+King Saud bin Abdulaziz University for Health Sciences,Saudi Arabia
+King Abdulaziz University,Saudi Arabia
+Alfaisal University,Saudi Arabia
+King Fahd University of Petroleum & Minerals,Saudi Arabia
+King Khalid University,Saudi Arabia
+University of Belgrade,Serbia
+National University of Singapore,Singapore
+Nanyang Technological University,Singapore
+Technical University in Kosice,Slovakia
+Comenius University in Bratislava,Slovakia
+Slovak University of Technology,Slovakia
+University of Ljubljana,Slovenia
+University of Maribor,Slovenia
+University of Johannesburg,South Africa
+University of Pretoria,South Africa
+University of the Western Cape,South Africa
+University of Cape Town,South Africa
+North-West University,South Africa
+University of KwaZulu-Natal,South Africa
+University of Stellenbosch,South Africa
+University of Witwatersrand,South Africa
+Tshwane University of Technology,South Africa
+University of South Africa,South Africa
+Yeungnam University,South Korea
+Korea Advanced Institute of Science and Technology,South Korea
+Korea University,South Korea
+Yonsei University,South Korea
+Sungkyunkwan University,South Korea
+Kyung Hee University,South Korea
+Pohang University of Science and Technology,South Korea
+Seoul University,South Korea
+Seoul National University,South Korea
+Pusan National University,South Korea
+Chung-Ang University,South Korea
+Ulsan University,South Korea
+Hallym University,South Korea
+Hanyang University,South Korea
+Gwangju Institute of Science and Technology,South Korea
+Ewha Womans University,South Korea
+Seoul National University of Science and Technology,South Korea
+Sogang University,South Korea
+Ulsan National Institute of Science and Technology,South Korea
+Inha University,South Korea
+Ajou University,South Korea
+Chungnam National University,South Korea
+Sejong University,South Korea
+Chonbuk National University,South Korea
+Konkuk University,South Korea
+Chonnam National University,South Korea
+Kyungpook National University,South Korea
+University of La Laguna,Spain
+University of Granada,Spain
+University of Oviedo,Spain
+University of Barcelona,Spain
+Autonomous University of Barcelona,Spain
+University of Salamanca,Spain
+University of Santiago de Compostela,Spain
+University Pablo de Olavide,Spain
+University of La Coruna,Spain
+University of Castilla La Mancha,Spain
+University of the Basque Country,Spain
+University of Burgos,Spain
+University of Alcala de Henares,Spain
+Technical University of Madrid,Spain
+University of Malaga,Spain
+University of Cordoba,Spain
+University of Cadiz,Spain
+University Carlos III de Madrid,Spain
+University of Alicante,Spain
+University of Almeria,Spain
+University of Lleida,Spain
+University of Seville,Spain
+Complutense University of Madrid,Spain
+Open University of Catalonia,Spain
+University of Girona,Spain
+University of Deusto,Spain
+University of Las Palmas de Gran Canaria,Spain
+Autonomous University of Madrid,Spain
+Jaume I University,Spain
+University of the Balearic Islands,Spain
+Polytechnic University of Catalonia,Spain
+Polytechnic University of Valencia,Spain
+University of Zaragoza,Spain
+University Rovira I Virgili Tarragona,Spain
+University of Murcia,Spain
+University Miguel Hernandez de Elche,Spain
+University of Navarra,Spain
+University of Jaen,Spain
+University of Valencia,Spain
+University Pompeu Fabra,Spain
+University of Vigo,Spain
+University Rey Juan Carlos,Spain
+University of Peradeniya,Sri Lanka
+University of Colombo,Sri Lanka
+Karolinska Institute,Sweden
+Orebro University,Sweden
+KTH - Royal Institute of Technology,Sweden
+Uppsala University,Sweden
+Linkoping University,Sweden
+Swedish University of Agricultural Sciences,Sweden
+Chalmers University of Technology,Sweden
+Lund University,Sweden
+Umea University,Sweden
+Stockholm University,Sweden
+Karlstad University,Sweden
+Goteborg University,Sweden
+University of Basel,Switzerland
+University of St.Gallen,Switzerland
+University of Geneva,Switzerland
+University of Lausanne,Switzerland
+University of Fribourg,Switzerland
+University of Lugano,Switzerland
+University of Bern,Switzerland
+University of Neuchatel,Switzerland
+Swiss Federal Institute of Technology Lausanne - EPFL,Switzerland
+University of Zurich,Switzerland
+Swiss Federal Institute of Technology Zurich - ETHZ,Switzerland
+National Central University,Taiwan
+National Taiwan Ocean University,Taiwan
+National Taiwan University of Science and Technology,Taiwan
+Fu Jen Catholic University,Taiwan
+National Yang-Ming University,Taiwan
+National Taipei University of Technology,Taiwan
+National Chung Hsing University - Taipei,Taiwan
+National Chiao Tung University,Taiwan
+National University of Tainan,Taiwan
+National Cheng Kung University,Taiwan
+I-Shou University,Taiwan
+Taipei Medical University,Taiwan
+National Taiwan Normal University,Taiwan
+National Dong Hwa University,Taiwan
+National Tsinghua University,Taiwan
+Kaohsiung Medical University,Taiwan
+Chang Gung University,Taiwan
+National Sun Yat-Sen University,Taiwan
+Chung Yuan Christian University,Taiwan
+China Medical University - Taiwan,Taiwan
+Feng Chia University,Taiwan
+Yuan Ze University,Taiwan
+National Taipei University,Taiwan
+Tamkang University,Taiwan
+Asia University,Taiwan
+National Taiwan University,Taiwan
+National Chengchi University,Taiwan
+Ming Chuan University,Taiwan
+National Chung Cheng University,Taiwan
+King Mongkut's Institute of Technology Ladkrabang,Thailand
+Suranaree University of Technology,Thailand
+Mahidol University,Thailand
+Kasetsart University,Thailand
+King Mongkut's University of Technology Thonburi,Thailand
+Chiang Mai University,Thailand
+Mae Fah Luang University,Thailand
+Chulalongkorn University,Thailand
+Prince of Songkla University,Thailand
+Khon Kaen University,Thailand
+University of Tunis El Manar,Tunisia
+University of Monastir,Tunisia
+University of Sfax,Tunisia
+Gebze Technical University,Turkey
+Bilkent University,Turkey
+Eastern Mediterranean University,Turkey
+Ankara University,Turkey
+Marmara University,Turkey
+Koc University,Turkey
+Anadolu University,Turkey
+Istanbul Technical University,Turkey
+Erciyes University,Turkey
+Hacettepe University,Turkey
+Yildiz Technical University,Turkey
+Akdeniz University,Turkey
+Cankaya University,Turkey
+Gazi University Ankara,Turkey
+Istanbul University,Turkey
+Sabanci University,Turkey
+Atilim University,Turkey
+Bogazici University,Turkey
+Izmir Institute of Technology,Turkey
+Karabuk University,Turkey
+TOBB Economics and Technology University,Turkey
+Middle East Technical University,Turkey
+Glasgow Caledonian University,UK
+University of Edinburgh,UK
+Kingston University,UK
+University of Liverpool,UK
+Aston University,UK
+University of East Anglia,UK
+Coventry University,UK
+University of Nottingham,UK
+Heriot-Watt University,UK
+University of Greenwich,UK
+Loughborough University,UK
+University of Surrey,UK
+University of Central Lancashire,UK
+University of South Wales,UK
+Swansea University,UK
+University of Strathclyde,UK
+University of Portsmouth,UK
+University of Kent at Canterbury,UK
+Staffordshire University,UK
+Keele University,UK
+University of Brighton,UK
+University of Exeter,UK
+University of Bradford,UK
+University of Hertfordshire,UK
+University of Derby,UK
+University of Wolverhampton,UK
+Sheffield Hallam University,UK
+University of Northumbria at Newcastle,UK
+University of Hull,UK
+University of Stirling,UK
+University of Westminster,UK
+University of Salford,UK
+University of Plymouth,UK
+Aberystwyth University,UK
+University of the West of England - Bristol,UK
+Liverpool John Moores University,UK
+Nottingham Trent University,UK
+Middlesex University,UK
+St George's - University of London,UK
+University of Huddersfield,UK
+University of Leeds,UK
+The Robert Gordon University,UK
+University College London,UK
+University of Warwick,UK
+University of Bedfordshire,UK
+Open University,UK
+Oxford Brookes University,UK
+University of Ulster,UK
+Queen Mary - University of London,UK
+University of Leicester,UK
+Imperial College London,UK
+University of Lancaster,UK
+University of Glasgow,UK
+University of Birmingham,UK
+University of Dundee,UK
+University of Sheffield,UK
+De Montfort University Leicester,UK
+The Manchester Metropolitan University,UK
+University of Oxford,UK
+University of Southampton,UK
+University of Cambridge,UK
+School of Oriental and African Studies - University of London,UK
+London Metropolitan University,UK
+Edinburgh Napier University,UK
+Brighton and Sussex Medical School,UK
+Roehampton University of Surrey,UK
+University of East London,UK
+University of Teesside,UK
+Cardiff University,UK
+Leeds Beckett University,UK
+University of Essex,UK
+University of Bristol,UK
+City University London,UK
+Bournemouth University,UK
+University of the West Scotland,UK
+Birmingham City University,UK
+London School of Economics,UK
+London South Bank University,UK
+Royal Veterinary College,UK
+University of Durham,UK
+University of Lincoln (England),UK
+University of Reading,UK
+Edge Hill University,UK
+University of York,UK
+University of Manchester,UK
+University of Sussex,UK
+Cardiff Metropolitan University,UK
+Goldsmiths College - University of London,UK
+Royal Holloway - University of London,UK
+King's College London,UK
+Bangor University,UK
+Anglia Ruskin University,UK
+University of Bath,UK
+Queen's University Belfast,UK
+Newcastle University - Newcastle-upon-Tyne,UK
+Birkbeck - University of London,UK
+University of Aberdeen,UK
+Brunel University,UK
+University of St. Andrews,UK
+Colorado School of Mines,USA
+Massachusetts Institute of Technology - MIT,USA
+University of Miami,USA
+University of Central Florida,USA
+California Institute of Technology - Caltech,USA
+Texas A&M University,USA
+University of Florida,USA
+Binghamton University,USA
+George Mason University,USA
+University of Houston,USA
+Brandeis University,USA
+Georgia Regents University Augusta,USA
+Medical University of South Carolina,USA
+University of Oklahoma,USA
+The New School,USA
+University of San Diego,USA
+University of Maryland Baltimore County,USA
+Cornell University,USA
+Princeton University,USA
+University of Michigan - Ann Arbor,USA
+University of Illinois at Chicago,USA
+University of Missouri - St. Louis,USA
+University of Texas at San Antonio,USA
+University of Kentucky,USA
+University of Kansas,USA
+Yale University,USA
+Nova Southeastern University,USA
+University of California - Los Angeles,USA
+University of Chicago,USA
+Wayne State University,USA
+Johns Hopkins University,USA
+California State Polytechnic University - Pomona,USA
+East Carolina University,USA
+University of Texas at Dallas,USA
+Virginia Polytechnic Institute and State University,USA
+Kent State University,USA
+Drexel University,USA
+University of Cincinnati,USA
+Columbia University,USA
+Stanford University,USA
+University of Pennsylvania,USA
+Carnegie Mellon University,USA
+University of Georgia,USA
+Tulane University,USA
+Louisiana Technology University,USA
+University of Nevada - Las Vegas,USA
+Fordham University,USA
+Western Washington University,USA
+West Virginia University,USA
+University of South Florida,USA
+Northeastern University,USA
+University of Medicine and Dentistry of New Jersey,USA
+State University of New York at Buffalo,USA
+University of Rochester,USA
+University of Texas at Austin,USA
+Colorado State University,USA
+University of Missouri - Columbia,USA
+University of California - Berkeley,USA
+University of South Alabama,USA
+Creighton University,USA
+State University of New York at Albany,USA
+University of Rhode Island,USA
+University of South Carolina,USA
+Washington University in St. Louis,USA
+Washington State University,USA
+New York University,USA
+Boston University,USA
+University of North Carolina at Greensboro,USA
+New Mexico State University,USA
+University of Massachusetts (System),USA
+Brown University,USA
+University of California - Davis,USA
+Tufts University,USA
+Montana State University,USA
+University of Arkansas at Fayetteville,USA
+University of Minnesota,USA
+University of Iowa,USA
+Louisiana State University,USA
+Florida International University,USA
+University of Toledo,USA
+Howard University,USA
+University of San Francisco,USA
+Wake Forest University,USA
+Indiana University at Bloomington,USA
+Iowa State University,USA
+University of South Dakota,USA
+Medical College of Georgia,USA
+Clark University,USA
+University of Denver,USA
+Embry-Riddle Aeronautical University,USA
+Medical College of Wisconsin,USA
+Vanderbilt University,USA
+University of Tennessee - Knoxville,USA
+University of Washington,USA
+University of Delaware,USA
+American University,USA
+Oregon Health and Science University,USA
+Emory University,USA
+University of Pittsburgh,USA
+Rutgers - The State University of New Jersey,USA
+Purdue University,USA
+University of Utah,USA
+Stevens Institute of Technology,USA
+Northern Arizona University,USA
+State University of New York at Stony Brook,USA
+Pennsylvania State University,USA
+College of William and Mary,USA
+University of Hawaii at Manoa,USA
+University of California - Riverside,USA
+Michigan State University,USA
+Missouri University of Science and Technology,USA
+University of Wisconsin-Milwaukee,USA
+University of Texas at Arlington,USA
+University of Notre Dame,USA
+Dartmouth College,USA
+Miami University of Ohio,USA
+University of Maryland at College Park,USA
+George Washington University,USA
+University of Arizona,USA
+University of Southern California,USA
+Portland State University,USA
+University of Tulsa,USA
+Oklahoma State University,USA
+University of Virginia,USA
+Yeshiva University,USA
+University of California - Santa Cruz,USA
+University of Colorado at Boulder,USA
+Ohio State University,USA
+Case Western Reserve University,USA
+Hofstra University,USA
+Rush University,USA
+St. Louis University,USA
+Florida State University,USA
+Old Dominion University,USA
+University of Wyoming,USA
+Auburn University,USA
+Florida Institute of Technology,USA
+University of Connecticut,USA
+University of Oregon,USA
+Clemson University,USA
+University of Montana,USA
+University of California - San Diego,USA
+University of Illinois at Urbana-Champaign,USA
+Rensselaer Polytechnic Institute,USA
+North Carolina State University,USA
+University of Alabama at Birmingham,USA
+Baylor University,USA
+Oregon State University,USA
+New Jersey Institute of Technology,USA
+Michigan Technological University,USA
+Kansas State University,USA
+Duke University,USA
+Worcester Polytechnic Institute,USA
+Lehigh University,USA
+University of Alabama in Huntsville,USA
+New Mexico Institute of Mining and Technology,USA
+Northwestern University,USA
+University of California - Merced,USA
+Georgia Institute of Technology,USA
+University of Minnesota - Twin Cities,USA
+University of California - Santa Barbara,USA
+Southwest Texas State University,USA
+California Polytechnic State University - San Luis Obispo,USA
+University of North Carolina at Chapel Hill,USA
+Georgia State University,USA
+University of Idaho,USA
+University of Dayton,USA
+Mississippi State University,USA
+Marquette University,USA
+California State University - Long Beach,USA
+University of Colorado at Denver,USA
+University of California - Irvine,USA
+Arizona State University,USA
+University of Nebraska Medical Center,USA
+Illinois Institute of Technology,USA
+University of Texas at El Paso,USA
+University of Alabama,USA
+Boston College,USA
+Florida Atlantic University,USA
+Sabanci University,USA
+Syracuse University,USA
+Rice University,USA
+San Diego State University,USA
+University of New Mexico,USA
+Temple University,USA
+University of Vermont,USA
+Oakland University,USA
+University of Southern Mississippi,USA
+Rochester Institute of Technology,USA
+Texas Technical University,USA
+Southern Methodist University,USA
+Harvard University,USA
+University of Nebraska - Lincoln,USA
+Ohio University,USA
+Georgetown University,USA
+University of Alaska - Fairbanks,USA
+University of Wisconsin-Madison,USA
+Makerere University,Uganda
+National Technical University of Ukraine,Ukraine
+Lviv Polytechnic National University,Ukraine
+V.N. Karazin Kharkiv National University,Ukraine
+Taras Shevchenko National University of Kyiv,Ukraine
+United Arab Emirates University,United Arab Emirates
+University of Sharjah,United Arab Emirates
+American University of Sharjah,United Arab Emirates
+Khalifa University,United Arab Emirates
+University Simon Bolivar,Venezuela
+University Central de Venezuela,Venezuela
+University of the Andes - Venezuela,Venezuela
+Viet Nam National University - Hanoi,Viet Nam
+Hanoi University of Science and Technology,Viet Nam

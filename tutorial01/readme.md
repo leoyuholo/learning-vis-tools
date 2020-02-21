@@ -13,4 +13,4 @@ Introduction to visualization tools and warm-up with MS Excel visualization
 
 ## Credits:
 - [Coursera: Data Visualization with Advanced Excel (PwC)](https://www.coursera.org/learn/advanced-excel)
-- Data source from [Kaggle Dataset "World University Rankings" by Myles O'Neill](https://www.kaggle.com/mylesoneill/world-university-rankings)
+- Data source from [UniversityRankings.ch](https://www.universityrankings.ch/)
