@@ -84,3 +84,4 @@ Marked with ⭑ means mentioned in slides.
 - [FlowingData Data Sources](https://flowingdata.com/category/statistics/data-sources/)
 - [MakeoverMonday](https://www.makeovermonday.co.uk/data/)
 - [Reddit/datasets](https://www.reddit.com/r/datasets/)
+- [Our World in Data](https://ourworldindata.org/)
