@@ -8,7 +8,7 @@ Python, Jupyter Notebook and Pandas
 
 - [Jupyter notebook on Google Colab](https://bit.ly/vis-t04-nb)
 
-- [Lab 3 materials](./lab3)
+- [Lab 4 materials](./lab4)
   - pokemon.csv
 
 ## Credits:

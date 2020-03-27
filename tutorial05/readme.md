@@ -8,7 +8,7 @@ Pandas and Visualization
 
 - [Jupyter notebook on Google Colab](https://bit.ly/vis-t05-nb)
 
-- [Lab 4 materials](./lab4)
+- [Lab 5 materials](./lab5)
   - countries.json
 
 ## Credits:
