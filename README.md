@@ -1,11 +1,14 @@
-# learning-vis-tools
+# Learning Vis Tools
+
+![Learning Vis Tools Banner](learning-vis-tools-banner.jpg)
+
 Welcome to the tutorial of COMP 4462 Data Visualization! You can find the materials used in the tutorial sessions here.
 
 While the lectures are focused on the principles of data visualization, the tutorials will focus on how to use the tools built by data visualization practitioners.
 
 Besides these materials, you can find the course materials on [Canvas](https://canvas.ust.hk/courses/29837).
 
-## Directory/Schedule
+## Directory
 
 | # | Topic | Materials | Link to Tools |
 | - | - | - | - |
@@ -15,7 +18,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 | 4 | [Data scientist toolbox 1: Python, Jupyter Notebook and Pandas](./tutorial04) | [Jupyter Notebook](https://bit.ly/vis-t04-nb)<br>[Slides](https://bit.ly/vis-t04) | [Google Colab](https://colab.research.google.com/) |
 | 5 | [Data scientist toolbox 2: Pandas and Python visualization](./tutorial05) | [Jupyter Notebook](https://bit.ly/vis-t05-nb)<br>[Slides](https://bit.ly/vis-t05) ||
 | 6 | [Visualization with Javascript 1: Javascript basics and Observable](./tutorial06) | [Observable Notebook](https://bit.ly/vis-t06-ob)<br>[Slides](https://bit.ly/vis-t06) | [Observable](https://beta.observablehq.com/) |
-| 7 | [Visualization with Javascript 2: Vega-Lite and data processing library](./tutorial07) | [Observable Notebook](https://bit.ly/vis-t07-ob)<br>[Slides](https://bit.ly/vis-t07) ||
+| 7 | [Visualization with Javascript 2: Vega-Lite and data processing libraries](./tutorial07) | [Observable Notebook](https://bit.ly/vis-t07-ob)<br>[Slides](https://bit.ly/vis-t07) ||
 | 8 | [Visualization with Javascript 3: Visualization with D3.js](./tutorial08) | [Observable Notebook](https://bit.ly/vis-t08-ob)<br>[Slides](https://bit.ly/vis-t08) ||
 | 9 | [Visualization with Javascript 4: Visualization and interaction with D3.js](./tutorial09) | [Observable Notebook](https://bit.ly/vis-t09-ob)<br>[Slides](https://bit.ly/vis-t09) ||
 
@@ -37,6 +40,7 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 
 ### Vega-Lite
 - [Vega-Lite Examples](https://vega.github.io/vega-lite/examples/)
+- [Vega on Observable](https://observablehq.com/@vega)
 
 ### D3.js
 - [Interactive Data Visualization for the Web: An Introduction to Designing with D3 (Scott Murray)](https://alignedleft.com/work/d3-book-2e)
