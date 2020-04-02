@@ -4,7 +4,7 @@
 
 Welcome to the tutorial of COMP 4462 Data Visualization! You can find the materials used in the tutorial sessions here.
 
-While the lectures are focused on the principles of data visualization, the tutorials will focus on how to use the tools built by data visualization practitioners.
+While the lectures are focused on the principles of data visualization, the tutorials will focus on how to use the tools to make visualizations in practice.
 
 Besides these materials, you can find the course materials on [Canvas](https://canvas.ust.hk/courses/29837).
 
