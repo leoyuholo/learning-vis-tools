@@ -29,11 +29,10 @@ Marked with ⭑ means mentioned in slides.
 - [Information is Beautiful](https://www.informationisbeautifulawards.com/)
 - [FlowingData](https://flowingdata.com/)
 - [Truth & Beauty](http://truth-and-beauty.net/)
-- ⭑ [The list of 2018 visualization lists](http://www.maartenlambrechts.com/2018/12/31/the-list-of-2018-visualization-lists.html)
+- [The list of 2018 visualization lists](http://www.maartenlambrechts.com/2018/12/31/the-list-of-2018-visualization-lists.html)
+- ⭑ [The list of 2019 visualization lists](http://www.maartenlambrechts.com/2019/12/23/the-list-of-2019-visualization-lists.html)
 - ⭑ [SCMP Arcade](https://multimedia.scmp.com/culture/article/SCMP-printed-graphics-memory/index.html?src=ef2018_in_graphics)
 - ⭑ [Distill](https://distill.pub/)
-- [Jason Davies](https://www.jasondavies.com/)
-- [Amanda Cox (New York Times)](https://www.nytimes.com/by/amanda-cox)
 - ⭑ [Data Sketches](http://www.datasketch.es/)
 - [Visual Cinnamon](https://www.visualcinnamon.com/)
 - [Susie Lu](https://susielu.com)
@@ -57,6 +56,11 @@ Marked with ⭑ means mentioned in slides.
 - [2017: The Year in Visual Stories and Graphics](https://www.nytimes.com/interactive/2017/12/21/us/2017-year-in-graphics.html)
 - [MakeoverMonday](https://www.makeovermonday.co.uk/gallery/)
 - [Tableau Iron Viz Competition](https://www.tableau.com/iron-viz/gallery)
+- [Financial Times](https://www.ft.com/data-visualisation)
+- [Explorable Explanations](https://explorabl.es/)
+- [Giorgia Lupi](http://giorgialupi.com/)
+- [Datawrapper River](https://river.datawrapper.de/)
+- [Plotly Gallery](https://dash-gallery.plotly.host/Portal/)
 
 ## Datasets
 
@@ -85,3 +89,5 @@ Marked with ⭑ means mentioned in slides.
 - [MakeoverMonday](https://www.makeovermonday.co.uk/data/)
 - [Reddit/datasets](https://www.reddit.com/r/datasets/)
 - [Our World in Data](https://ourworldindata.org/)
+- [FiveThirtyEight Data](https://data.fivethirtyeight.com/)
+- [Data from The Guardian](https://www.theguardian.com/data)
